@@ -1,4 +1,4 @@
-![out](https://github.com/SergeyZorych/SergeyZorych/assets/44730129/a7bab0c6-1a0d-4612-84bf-025b7903cd7a)
+<img src="https://github.com/SergeyZorych/SergeyZorych/assets/44730129/9afffed6-7dcb-4318-a3c3-a3527a64beea" width=100%>
 
 ### Hi there 👋
 
