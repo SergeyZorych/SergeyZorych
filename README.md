@@ -36,7 +36,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/%40SergeyZorych-blue?style=flat-square&logo=telegram&color=blue&link=https://t.me/SergeyZorych)](https://t.me/SergeyZorych)
 [![Gmail Badge](https://img.shields.io/badge/sergey.zorych@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white&color=red&link=mailto:sergey.zorych@gmail.com)](mailto:sergey.zorych@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/Sergey_Zorych-blue?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/sergey-zorych/)](https://www.linkedin.com/in/sergey-zorych/)
+[![LinkedIn Badge](https://img.shields.io/badge/SergeyZorych-blue?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/SergeyZorych/)](https://www.linkedin.com/in/SergeyZorych/)
 
 ***
 
