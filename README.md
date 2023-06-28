@@ -16,7 +16,7 @@
 #### Technologies
 
 ![Android Badge](https://img.shields.io/badge/Android-darkgreen?style=flat-square&logo=android&logoColor=white)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-green?style=flat-square&logo=kotlin&logoColor=white&color=navy)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-dodgerblue?style=flat-square&logo=kotlin&logoColor=white&color=deepskyblue)
 ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack%20Compose-green?style=flat-square&logo=jetpackcompose&logoColor=white&color=orange)
 ![Firebase Badge](https://img.shields.io/badge/-Firebase-181717?style=flat-square&logo=firebase)
