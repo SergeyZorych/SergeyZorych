@@ -9,7 +9,10 @@
 
 🤔 Sometimes I'm trying to beat a LeetCode
 
-![Static Badge](https://img.shields.io/badge/%40SergeyZorych-blue?style=flat-square&logo=telegram&color=blue&link=https%3A%2F%2Ft.me%2FSergeyZorych)
+
+[![Telegram Badge](https://img.shields.io/badge/%40SergeyZorych-blue?style=flat-square&logo=telegram&color=blue&link=https://t.me/SergeyZorych)](https://t.me/SergeyZorych)
+[![Gmail Badge](https://img.shields.io/badge/sergey.zorych@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white&color=red&link=mailto:sergey.zorych@gmail.com)](mailto:sergey.zorych@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/Sergey_Zorych-blue?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/sergey-zorych/)](https://www.linkedin.com/in/sergey-zorych/)
 
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyZorych&theme=dark&show_icons=true)
