@@ -1,6 +1,7 @@
 <img src="https://github.com/SergeyZorych/SergeyZorych/assets/44730129/9afffed6-7dcb-4318-a3c3-a3527a64beea" width=100%>
 
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sergey</h1>
+<h3 align="center">Android developer from Ukraine</h3>
 
 ### LeetCode Stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=SergeyZorych&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
